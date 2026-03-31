@@ -1,2 +1,2 @@
 > [!WARNING]
-> This script is experimental and contains known bugs.It might not even fix your PC! Issues related to bugs will be closed.
+> This script is NOT WORKING. It will not fix your PC! Issues related to bugs will be closed. Do not expect updates or a fix for this anytime soon
