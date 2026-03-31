@@ -1,1 +1,2 @@
-IMPORTANT NOTE: This script has many bugs and errors (might not even fix your PC), do not try to create an issue in the issue tab as I would probably just dismiss it.
+> [!WARNING]
+> This script is experimental and contains known bugs. It may not fix your PC and could cause issues. Use at your own risk. Issues related to bugs will likely be closed without action.
