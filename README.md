@@ -3,3 +3,6 @@
 
 > [!NOTE]
 > For those asking, the ps1 was turned into an exe via PSEBuilder
+
+> [!IMPORTANT]
+> This is AI-generated content, I do not know how to code `PowerShell`
